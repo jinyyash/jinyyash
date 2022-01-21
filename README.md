@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **jinyyash/jinyyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Who am I?
+### Who am I?
 
-I am an enthusiastic Software Engineer who is willing to accept new challenges in the fields of Computer Science and Software Development. I am a fast learner and an innovative thinker.
+I am an enthusiastic Software Engineer who is willing to accept new challenges in the fields of Computer Science and Software Development. I am a fast learner and an innovative thinker. 🌱 
+### My stats⚡
+![Jinadee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyyash&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyyash&theme=radical)
